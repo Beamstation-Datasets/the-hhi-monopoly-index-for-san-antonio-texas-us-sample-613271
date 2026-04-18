@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8a3f2aff-bf1b-4424-ada2-d2e168c23697",
+  "export_job_id": "63690693-4966-4b11-adbb-66987570bfd5",
   "id_short": 613271,
-  "published_at": "2026-04-14T07:03:12Z",
+  "published_at": "2026-04-18T19:31:13Z",
   "repo_name": "the-hhi-monopoly-index-for-san-antonio-texas-us-sample-613271",
   "sample_asset_name": "beamstation_613271_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/613271/beamstation_613271_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "872ae99c327e4acfdc24f30b2fed0eaa85cc8407c66bb478821f575c21744d1d",
-  "sample_size_bytes": 68889,
-  "total_records": 134
+  "sample_records": 10,
+  "sample_sha256": "7018f097858cb0bd3bb1130adee05837c7f51541ee434af44ae37d10597ce106",
+  "sample_size_bytes": 56640,
+  "total_records": 103
 }
